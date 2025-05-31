@@ -1,5 +1,6 @@
 # PersonalProject
-A part of my personal projects is embeded PowerBI report into Website built with ReactJS
-Demo a part of my report
-![image](https://github.com/user-attachments/assets/6408a36d-4ec6-41ff-8a60-30ce71564bca)
+A part of my personal projects is embedding reports PowerBI  into a Website built with ReactJS
+Demo a part of my reports
+![image](https://github.com/user-attachments/assets/045f36e3-f2f6-4d3c-8434-6c161b3758b7)
+
 
